@@ -1,6 +1,6 @@
 
 
-# Three-Phase-Double-Active-Bridge-converter
+# Three-Phase-Double-Active-Bridge-converter-For-Bidirectional-Power-Transfer
 
 
 Problem: 
