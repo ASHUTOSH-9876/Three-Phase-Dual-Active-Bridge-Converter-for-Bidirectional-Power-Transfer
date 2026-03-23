@@ -1,8 +1,8 @@
-[README.pdf](https://github.com/user-attachments/files/26183043/README.pdf)
 
-FOR DIRECT TEXT (without opening the pdf):
 
-README FILE 
+# Three-Phase-Double-Active-Bridge-converter
+
+
 Problem: 
 
 
